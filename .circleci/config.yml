@@ -8,10 +8,5 @@ jobs:
     executor: ci-executor
     steps:
       - checkout
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> 0973e63ea7b9581cc1fb338f8b6ea3f266963935
-=======
->>>>>>> 0973e63ea7b9581cc1fb338f8b6ea3f266963935
+

@@ -2,7 +2,7 @@
 <<<<<<< Updated upstream
  Change added
 =======
-### Change added
+Change added
 Change added
 
 uncommented added change<!--Here, describe the changes you're introducing. In this pull request, you're introducing a configuration file for CircleCI.-->
